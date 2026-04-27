@@ -1,0 +1,19 @@
+{
+  "name": "admin-dash",
+  "version": "1.0.0",
+  "description": "Admin dashboard for all corp app monitoring tasks",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "KarthikVempati",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
